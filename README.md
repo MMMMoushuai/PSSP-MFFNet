@@ -11,11 +11,13 @@ efficiently capture global and local features of protein sequences.
 ## Requirements
 RUN `pip install -r requirements.txt`
 
-
 ## Train
 RUN `python train_my_model.py`
 
 ## Test
 RUN `python test_my_model.py`
+
+## Trained model
+The trained can be downloaded in [BaiduNetdisk(code:i089)](https://pan.baidu.com/s/1Q3j8aS7GRBLXY07Db-C3JQ?pwd=i089).
 
 ![network](picture/network.jpg)
