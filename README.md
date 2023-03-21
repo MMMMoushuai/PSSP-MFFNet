@@ -1,3 +1,3 @@
 # PSSP-MFFNet
 
-![network](images/network.jpg)
+![network](picture/network.jpg)
